@@ -10,4 +10,4 @@ The goal of the lab is to connect the TTGO to a Wi-Fi source and connect to a we
 The files that were changed are the main.cpp in the src folder file and the platform.ini file. 
 
 ## Wiring Diagram (different hardware, same result)
-![diagram](images/diagram)
+![diagram](images/schemeit-Project.png)
